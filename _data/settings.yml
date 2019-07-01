@@ -70,11 +70,11 @@ lender:
   url:
 socials:
   review_sm_icons: false
-  facebook_url: 'https://www.facebook.com/The-Greater-Las-Vegas-Houses'
-  linkedin_url:
-  youtube_url:
+  facebook_url: https://www.facebook.com/DedicTeam/?modal=admin_todo_tour
+  linkedin_url: https://www.linkedin.com/in/mike-dedic-1a0a9922/
+  youtube_url: https://www.youtube.com/channel/UCmFY5tA4x4rg77Uj5YUVB1A
   twitter_url:
-  instagram_url:
+  instagram_url: https://www.instagram.com/dedic_team/?hl=en
   pinterest_url:
   zillow_url:
   trulia_url:
