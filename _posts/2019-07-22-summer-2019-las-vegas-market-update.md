@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Summer 2019 Las Vegas Market Update
-date: 2019-07-22 15:20:01
+date: 2019-07-22 15:20:00
 tags:
   - Real Estate
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: OlGm0hkmpBo
+youtube_code: i9gH_RrZwXA
 ---
 
 {% include youtube.html %}
@@ -25,7 +25,7 @@ Now that we’re past the midway point of 2019, it’s time to check out some of
 
 First of all, inventory has risen. **In June of last year, we had 2.3 months’ worth of inventory on the market. This June, we’ve got a 3.3-month supply.** This 43.5% increase means sellers still have the upper hand, but that buyers now have more to choose from. Even so, 3.3 months is still not much. If you plan on buying a home this year, you’ll need to work closely with an experienced Realtor to ensure your home search is successful.&nbsp;
 
-Over that same 12-month period, the number of new listings as well as the number of pending sales both went up by more than 9%. This just goes to show that our market is still quite active.&nbsp;
+Over that same 12-month period, the number of new listings as well as the number of pending sales went up by more than 9%. This just goes to show that our market is still quite active.&nbsp;
 
 {% include pullquote.html %}
 
