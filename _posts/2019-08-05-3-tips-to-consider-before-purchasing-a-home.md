@@ -3,6 +3,7 @@ layout: post
 title: 3 Tips to Consider Before Purchasing a Home
 date: 2019-08-05 16:02:00
 tags:
+  - Home Buyer Tips
 excerpt: Here are the three most essential things you need to do before buying a home.
 enclosure:
 pullquote: >-
