@@ -3,7 +3,7 @@ layout: post
 title: Summer 2019 Las Vegas Market Update
 date: 2019-07-22 15:20:00
 tags:
-  - Real Estate
+  - Market Update
 excerpt: >-
   Our Las Vegas area market has changed a lot in one year, and today I’ll share
   a few of the most notable developments.
