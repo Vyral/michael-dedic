@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Steps Go Into the Home Buying Process?
-date: 2019-08-19 17:34:19
+date: 2019-08-19 17:34:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: XdXI6OmdgBA
 
 {% include youtube.html %}
 
-Many people are curious as to what steps go into the homebuying process, so today we’ll walk you through a general overview of what to expect.&nbsp;
+Many people are curious as to what steps go into the home buying process, so today we’ll walk you through a general overview of what to expect.&nbsp;
 
 **When our team assists people with the home buying process, the first step we like to take is to send them a list of available homes in our area that meet their search criteria.&nbsp;**
 
